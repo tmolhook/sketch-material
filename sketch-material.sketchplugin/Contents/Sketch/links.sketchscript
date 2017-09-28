@@ -4,9 +4,10 @@ function openURL(url){
 }
 
 function linkSite(){
-  openURL('https://websiddu.github.io/sketch-material/');
+  openURL('https://github.com/tmolhook/qc-ui-2');
 }
 
 function linkDocumentation(){
-  openURL('https://websiddu.github.io/sketch-material/help.html');
+  openURL('https://github.com/tmolhook/qc-ui-2');
 }
+
